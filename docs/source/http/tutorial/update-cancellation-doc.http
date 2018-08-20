@@ -1,12 +1,12 @@
-PUT /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/cancellations/17c7d42a8b554ba69d27ddfd2a753ecc/documents/17023e4f0b684642b0c13e1a5bbed326?acc_token=1d0e92eeafee4e0282182542158f419a HTTP/1.0
+PUT /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/cancellations/1ebc85164e494f0fb81c4269430bd771/documents/be70017c3e794c6c840628dab26b23d7?acc_token=725b3b0b374c467384cb2c4b99c21148 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 326
+Content-Length: 330
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/cafe42532bad4fb08bcf73b7048d9d9e?KeyID=16711276&Signature=LQDYJNGKb235WNl5D4mahkyqNOZZIQWUcgqAne5VNSVSz1TbCtwhB0kwMjPTPx4oRgvUyVsNF9k8idt1%2FjNQAw%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/21f3379c5ba94ae1bdb80212f02b3177?KeyID=c13f8414&Signature=WARCdRKK6jrIp7n9thBYLJufTFlqlj%2FjgkKryMall4F8a47A9M2%2FKI9FlehDptIOAK2CDTXvns%2FngLoiZzVFDA%3D%3D", 
     "title": "Notice-2.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -22,12 +22,12 @@ Content-Type: application/json; charset=UTF-8
     "hash": "md5:00000000000000000000000000000000", 
     "description": "Changed description", 
     "title": "Notice-2.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/cafe42532bad4fb08bcf73b7048d9d9e?KeyID=16711276&Signature=OoGWA%252BT9%252BJ2qMpHfjBq50bNgyTVfAAkOIRZJuQPq3LrL4mE8maq0nLfAb39xJsXSZu%2FJhr43Gs2ZjsPgv7XhBw%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/21f3379c5ba94ae1bdb80212f02b3177?KeyID=c13f8414&Signature=V2%2FJ2ybgGUmd5nTmWj%2Fz0LmwMmUXoCi7TMejasqkwAl7C4ds3M3wZ9Ez146EJH1cGngp5QPTQ94EiPHDbgAKCA%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2018-08-20T17:05:17.735545+03:00", 
-    "id": "17023e4f0b684642b0c13e1a5bbed326", 
-    "dateModified": "2018-08-20T17:05:17.995900+03:00"
+    "datePublished": "2018-08-20T17:16:53.966788+03:00", 
+    "id": "be70017c3e794c6c840628dab26b23d7", 
+    "dateModified": "2018-08-20T17:16:54.295188+03:00"
   }
 }
 

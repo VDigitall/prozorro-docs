@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/f07ad6d10d364d1ca8afb6d0ed7633f9?acc_token=a8d11f3a23fa44c5b4ab8f21ab80aba4 HTTP/1.0
+PATCH /api/2.4/tenders/12586d2e71404ca2a0deb36497ef07d0?acc_token=fb145fe546874a30991aae6de0c1c8f6 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 40
 Content-Type: application/json
@@ -18,10 +18,10 @@ Content-Type: application/json; charset=UTF-8
   "data": {
     "procurementMethod": "open", 
     "status": "active.enquiries", 
-    "mainProcurementCategory": "goods", 
+    "awardCriteria": "lowestCost", 
     "tenderPeriod": {
-      "startDate": "2018-08-27T17:04:56.722850+03:00", 
-      "endDate": "2018-09-03T17:04:56.722850+03:00"
+      "startDate": "2018-08-27T17:16:33.468317+03:00", 
+      "endDate": "2018-09-03T17:16:33.468317+03:00"
     }, 
     "title": "футляри до державних нагород", 
     "minimalStep": {
@@ -52,10 +52,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-22T17:04:56.722850+03:00", 
-          "endDate": "2018-08-25T17:04:56.722850+03:00"
+          "startDate": "2018-08-22T17:16:33.468317+03:00", 
+          "endDate": "2018-08-25T17:16:33.468317+03:00"
         }, 
-        "id": "a2d28210d5d141b6a331ef0472a863af", 
+        "id": "c2d1a94b1628487ba9353e67c59ff8fe", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -70,8 +70,8 @@ Content-Type: application/json; charset=UTF-8
       "valueAddedTaxIncluded": true
     }, 
     "submissionMethod": "electronicAuction", 
-    "date": "2018-08-20T17:05:03.235390+03:00", 
-    "next_check": "2018-08-27T17:04:56.722850+03:00", 
+    "date": "2018-08-20T17:16:39.723176+03:00", 
+    "next_check": "2018-08-27T17:16:33.468317+03:00", 
     "procuringEntity": {
       "contactPoint": {
         "name": "Державне управління справами", 
@@ -92,14 +92,13 @@ Content-Type: application/json; charset=UTF-8
         "locality": "м. Київ"
       }
     }, 
-    "awardCriteria": "lowestCost", 
     "enquiryPeriod": {
-      "startDate": "2018-08-20T17:05:03.121561+03:00", 
-      "endDate": "2018-08-27T17:04:56.722850+03:00"
+      "startDate": "2018-08-20T17:16:39.614578+03:00", 
+      "endDate": "2018-08-27T17:16:33.468317+03:00"
     }, 
     "owner": "broker", 
-    "dateModified": "2018-08-20T17:05:03.235390+03:00", 
-    "id": "f07ad6d10d364d1ca8afb6d0ed7633f9", 
+    "dateModified": "2018-08-20T17:16:39.723176+03:00", 
+    "id": "12586d2e71404ca2a0deb36497ef07d0", 
     "tenderID": "UA-2018-08-20-000001"
   }
 }

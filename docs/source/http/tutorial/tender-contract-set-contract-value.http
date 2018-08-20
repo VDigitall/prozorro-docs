@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/contracts/9f866bd85d1f4bd785167a1093a0edde?acc_token=1d0e92eeafee4e0282182542158f419a HTTP/1.0
+PATCH /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/contracts/0270b83367704c4591630c99045ceefa?acc_token=725b3b0b374c467384cb2c4b99c21148 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 73
 Content-Type: application/json
@@ -43,10 +43,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-22T17:04:56.722850+03:00", 
-          "endDate": "2018-08-25T17:04:56.722850+03:00"
+          "startDate": "2018-08-22T17:16:33.468317+03:00", 
+          "endDate": "2018-08-25T17:16:33.468317+03:00"
         }, 
-        "id": "0897526d1a144ca9a02ad7a9e0bc5df8", 
+        "id": "04e4ef5c58224d738ee5426a982800bd", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -82,9 +82,9 @@ Content-Type: application/json; charset=UTF-8
       "amount": 238.0, 
       "valueAddedTaxIncluded": true
     }, 
-    "date": "2018-08-20T17:05:15.826525+03:00", 
-    "awardID": "b2249a626e77442996569aef85d9aa96", 
-    "id": "9f866bd85d1f4bd785167a1093a0edde", 
+    "date": "2018-08-20T17:16:52.103329+03:00", 
+    "awardID": "7ffb8f3c5add4b12b6421cd90df2a187", 
+    "id": "0270b83367704c4591630c99045ceefa", 
     "contractID": "UA-2018-08-20-000001-1"
   }
 }

@@ -1,12 +1,12 @@
-PUT /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/documents/5851d9f2d065433eab9a8d6a928cc478?acc_token=1d0e92eeafee4e0282182542158f419a HTTP/1.0
+PUT /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/documents/c08bc208b94e446bb5f72be5978fb939?acc_token=725b3b0b374c467384cb2c4b99c21148 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 343
+Content-Length: 341
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/146655dd59dd46c988581f529fbd7993?KeyID=16711276&Signature=XV%2F3IZ%2BuB5WDtHU2tPhJF4CIvzLvAxUiQcDuKLo%2F%2B4OcJ2kKw%2BZ2MYdZ1DkDZIpukLIKssOkw1mcN7H%2BFV8kAQ%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/e95d73950bf547eb942a58dd34453a6b?KeyID=c13f8414&Signature=qTtsQH7nNO4q0MfsTlkzLIvWssiYt5ikkL5MlVuPe0kDo%2B%2B%2FpR6RLY2S%2B3ypUJE6cQ8DUyy%2B5ldgTU7snDVRBA%3D%3D", 
     "title": "AwardCriteria-2.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -22,12 +22,12 @@ Content-Type: application/json; charset=UTF-8
     "hash": "md5:00000000000000000000000000000000", 
     "author": "tender_owner", 
     "title": "AwardCriteria-2.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/146655dd59dd46c988581f529fbd7993?KeyID=16711276&Signature=U9uDP%2FMJSSmK375WAtGDJoAp8iNn3a%2FHVB%252BRGThwDNaSsv45ZoEt4ebA1w2w1HSPBsNeANwoL3lHLFv6FJjtCw%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/e95d73950bf547eb942a58dd34453a6b?KeyID=c13f8414&Signature=PflfKbRsdhbIP%2FzoN84zB2nwRGhkVABBWzqWz7KiRR%252BheVfXq67%2FfgmAqxeq5oyR3JqsGvpoybqN0rEqbQJeCw%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2018-08-20T17:05:13.881281+03:00", 
-    "id": "5851d9f2d065433eab9a8d6a928cc478", 
-    "dateModified": "2018-08-20T17:05:14.001660+03:00"
+    "datePublished": "2018-08-20T17:16:50.162578+03:00", 
+    "id": "c08bc208b94e446bb5f72be5978fb939", 
+    "dateModified": "2018-08-20T17:16:50.286501+03:00"
   }
 }
 

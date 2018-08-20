@@ -1,4 +1,4 @@
-GET /api/2.4/tenders/d10e6f5566244a1191ba597b97b2f01c/awards/4aac16afecfc472d8631521b04ea5ea8 HTTP/1.0
+GET /api/2.4/tenders/a25c38a278e8492f9d00d36f50173873/awards/4bbe838bb5674dbc97edd0d7bdcd1ec6 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -10,8 +10,8 @@ Content-Type: application/json; charset=UTF-8
   "data": {
     "status": "active", 
     "complaintPeriod": {
-      "startDate": "2018-08-20T17:05:07.873783+03:00", 
-      "endDate": "2018-08-22T17:05:08.079621+03:00"
+      "startDate": "2018-08-20T17:16:44.219112+03:00", 
+      "endDate": "2018-08-22T17:16:44.425957+03:00"
     }, 
     "suppliers": [
       {
@@ -34,14 +34,14 @@ Content-Type: application/json; charset=UTF-8
         }
       }
     ], 
-    "bid_id": "ff9abedab4c2435282b220577d9d9439", 
+    "bid_id": "e6a44ecddf574d1a938a69a40694113f", 
     "value": {
       "currency": "UAH", 
       "amount": 469.0, 
       "valueAddedTaxIncluded": true
     }, 
-    "date": "2018-08-20T17:05:08.085318+03:00", 
-    "id": "4aac16afecfc472d8631521b04ea5ea8"
+    "date": "2018-08-20T17:16:44.431876+03:00", 
+    "id": "4bbe838bb5674dbc97edd0d7bdcd1ec6"
   }
 }
 

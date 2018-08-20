@@ -1,4 +1,4 @@
-GET /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/bids/e9bd588befb14b67a42abcb88e16bb51?acc_token=cf4132aca0e4452781da2ef6fe925e4b HTTP/1.0
+GET /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/bids/a23d2da5a242419e95de2afd84ff1ae7?acc_token=18c28006fffd48ae895e0712c1775209 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -13,22 +13,22 @@ Content-Type: application/json; charset=UTF-8
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "Proposal_part1.pdf", 
-        "url": "http://api-sandbox.openprocurement.org/api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/bids/e9bd588befb14b67a42abcb88e16bb51/documents/1cb8457e931b434e80b653e369ecd755?download=f3076f74a5e34a5487e46dbbf7140c6b", 
+        "url": "http://api-sandbox.openprocurement.org/api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/bids/a23d2da5a242419e95de2afd84ff1ae7/documents/58ffdf71a54845abaf95565dc5a21559?download=0bb4b2acb1ba4053965837f1a7481a82", 
         "format": "application/pdf", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-20T17:05:14.916866+03:00", 
-        "id": "1cb8457e931b434e80b653e369ecd755", 
-        "dateModified": "2018-08-20T17:05:14.916882+03:00"
+        "datePublished": "2018-08-20T17:16:51.201060+03:00", 
+        "id": "58ffdf71a54845abaf95565dc5a21559", 
+        "dateModified": "2018-08-20T17:16:51.201077+03:00"
       }, 
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "Proposal_part2.pdf", 
-        "url": "http://api-sandbox.openprocurement.org/api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/bids/e9bd588befb14b67a42abcb88e16bb51/documents/1316b051352b458d882593eac0f883fa?download=ed4892817f644a47b5ef06b213b2ef46", 
+        "url": "http://api-sandbox.openprocurement.org/api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/bids/a23d2da5a242419e95de2afd84ff1ae7/documents/ae6d034e5f784a0e8301760596936e5a?download=7f573074467b44a78691a0e757c902aa", 
         "format": "application/pdf", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-20T17:05:14.917385+03:00", 
-        "id": "1316b051352b458d882593eac0f883fa", 
-        "dateModified": "2018-08-20T17:05:14.917401+03:00"
+        "datePublished": "2018-08-20T17:16:51.201546+03:00", 
+        "id": "ae6d034e5f784a0e8301760596936e5a", 
+        "dateModified": "2018-08-20T17:16:51.201561+03:00"
       }
     ], 
     "value": {
@@ -58,9 +58,9 @@ Content-Type: application/json; charset=UTF-8
         }
       }
     ], 
-    "date": "2018-08-20T17:05:14.916228+03:00", 
-    "id": "e9bd588befb14b67a42abcb88e16bb51", 
-    "participationUrl": "http://auction-sandbox.openprocurement.org/tenders/bd895d3da2ba4b7da4e8909106eed4e4?key_for_bid=e9bd588befb14b67a42abcb88e16bb51"
+    "date": "2018-08-20T17:16:51.200426+03:00", 
+    "id": "a23d2da5a242419e95de2afd84ff1ae7", 
+    "participationUrl": "http://auction-sandbox.openprocurement.org/tenders/bacb84789fc0414d8646160f1e0d4e11?key_for_bid=a23d2da5a242419e95de2afd84ff1ae7"
   }
 }
 
