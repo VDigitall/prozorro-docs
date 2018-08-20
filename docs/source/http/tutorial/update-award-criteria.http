@@ -1,12 +1,12 @@
-PUT /api/2.3/tenders/f3641d0ba0f042e8b49de06d5c7921af/documents/14f948894bcc4ddc9da4d2129b028116?acc_token=2ef61fa89e8a451ba4149d2f8e31173b HTTP/1.0
+PUT /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/documents/5851d9f2d065433eab9a8d6a928cc478?acc_token=1d0e92eeafee4e0282182542158f419a HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 337
+Content-Length: 343
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/1e600751d31c434987977980878dbd8b?KeyID=459f8ecf&Signature=EC1QzFOXAe%2BawGOy%2FJR3YMrURSrxoUXQMtC%2BIIrTcHlCcL26Uj1%2BSbggyBg1H87VOEn9EBtEgBde0s8zxohcDQ%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/146655dd59dd46c988581f529fbd7993?KeyID=16711276&Signature=XV%2F3IZ%2BuB5WDtHU2tPhJF4CIvzLvAxUiQcDuKLo%2F%2B4OcJ2kKw%2BZ2MYdZ1DkDZIpukLIKssOkw1mcN7H%2BFV8kAQ%3D%3D", 
     "title": "AwardCriteria-2.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -22,12 +22,12 @@ Content-Type: application/json; charset=UTF-8
     "hash": "md5:00000000000000000000000000000000", 
     "author": "tender_owner", 
     "title": "AwardCriteria-2.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/1e600751d31c434987977980878dbd8b?KeyID=459f8ecf&Signature=76AeflAK4BuZ734jGky7PBC9Tk3HAmi6UmSE1ElFiy2jLkYGA1%2FMdT7NIF7Hto%2F5PmrqAktZ%2FYovZYW6QptFBg%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/146655dd59dd46c988581f529fbd7993?KeyID=16711276&Signature=U9uDP%2FMJSSmK375WAtGDJoAp8iNn3a%2FHVB%252BRGThwDNaSsv45ZoEt4ebA1w2w1HSPBsNeANwoL3lHLFv6FJjtCw%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2017-07-25T17:36:56.140078+03:00", 
-    "id": "14f948894bcc4ddc9da4d2129b028116", 
-    "dateModified": "2017-07-25T17:36:56.181719+03:00"
+    "datePublished": "2018-08-20T17:05:13.881281+03:00", 
+    "id": "5851d9f2d065433eab9a8d6a928cc478", 
+    "dateModified": "2018-08-20T17:05:14.001660+03:00"
   }
 }
 

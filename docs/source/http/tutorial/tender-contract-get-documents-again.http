@@ -1,4 +1,4 @@
-GET /api/2.3/tenders/f3641d0ba0f042e8b49de06d5c7921af/contracts/54a174a38f174fb3802e573a9adc66ef/documents HTTP/1.0
+GET /api/2.4/tenders/bd895d3da2ba4b7da4e8909106eed4e4/contracts/9f866bd85d1f4bd785167a1093a0edde/documents HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -11,22 +11,22 @@ Content-Type: application/json; charset=UTF-8
     {
       "hash": "md5:00000000000000000000000000000000", 
       "title": "contract_first_document.doc", 
-      "url": "http://public.docs-sandbox.openprocurement.org/get/c2f1cfdef4ac4d9d9bc34f5cad1ce25d?KeyID=459f8ecf&Signature=8jHN%2FRFnicVD3L77%2FK3DG57f5TUp7JT3YSJNVADYk3Jukk1ixxVF%2FxEFfWn5OAxgea9TjRZipM1RVdany7pNBw%253D%253D", 
+      "url": "http://public.docs-sandbox.openprocurement.org/get/baf0cebc31274ec5acd5708613770cfd?KeyID=16711276&Signature=qi0v%252Bh65mZCwC9xyehGUToYhcdHebkuX9pfTOJT1nlaqcAHOsm%2FvsySPAXg89tr3efgN7304cz9V72f%252BqZCQBg%253D%253D", 
       "format": "application/msword", 
       "documentOf": "tender", 
-      "datePublished": "2017-07-25T17:36:57.534210+03:00", 
-      "id": "7fbb37c72038487ea8e66c27da3dac2b", 
-      "dateModified": "2017-07-25T17:36:57.534229+03:00"
+      "datePublished": "2018-08-20T17:05:16.604720+03:00", 
+      "id": "60b5949deb9747bb9cb75963e6734171", 
+      "dateModified": "2018-08-20T17:05:16.604740+03:00"
     }, 
     {
       "hash": "md5:00000000000000000000000000000000", 
       "title": "contract_second_document.doc", 
-      "url": "http://public.docs-sandbox.openprocurement.org/get/978e15c1b71f48b3a271b8390b86ce80?KeyID=459f8ecf&Signature=sfBQXr48pj4%2FqodFIsxDFzY%2FIkbD7uMFkmZ%2F95OfLvQvtVbVfV056nR%252BbuchmaYFApJfmspyVFlVWRwNSB6rDA%253D%253D", 
+      "url": "http://public.docs-sandbox.openprocurement.org/get/47f4d4abf40349b7b3bbd4bc07f6fcbb?KeyID=16711276&Signature=8ypQcDO3Bed3Oh4A0cYxwjfGA24YIRtucA3QfZnwTREYJ7FicowEOuCUKNAiXOkPjAb7U%2Fp8e8qB0ZeVHfmbAg%253D%253D", 
       "format": "application/msword", 
       "documentOf": "tender", 
-      "datePublished": "2017-07-25T17:36:57.643439+03:00", 
-      "id": "402f10f3b56f47168f47abfd075676c8", 
-      "dateModified": "2017-07-25T17:36:57.643460+03:00"
+      "datePublished": "2018-08-20T17:05:16.836029+03:00", 
+      "id": "e3a503d5aaa940b4adc267fdcf513047", 
+      "dateModified": "2018-08-20T17:05:16.836048+03:00"
     }
   ]
 }

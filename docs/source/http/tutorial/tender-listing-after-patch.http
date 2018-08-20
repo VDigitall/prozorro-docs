@@ -1,4 +1,4 @@
-GET /api/2.3/tenders?opt_pretty=1 HTTP/1.0
+GET /api/2.4/tenders?opt_pretty=1 HTTP/1.0
 Host: api-sandbox.openprocurement.org
 
 
@@ -7,18 +7,18 @@ Content-Type: application/json; charset=UTF-8
 
 {
   "next_page": {
-    "path": "/api/2.3/tenders?offset=2017-07-25T17%3A36%3A55.824208%2B03%3A00", 
-    "uri": "http://api-sandbox.openprocurement.org/api/2.3/tenders?offset=2017-07-25T17%3A36%3A55.824208%2B03%3A00", 
-    "offset": "2017-07-25T17:36:55.824208+03:00"
+    "path": "/api/2.4/tenders?offset=2018-08-20T17%3A05%3A13.119575%2B03%3A00", 
+    "uri": "http://api-sandbox.openprocurement.org/api/2.4/tenders?offset=2018-08-20T17%3A05%3A13.119575%2B03%3A00", 
+    "offset": "2018-08-20T17:05:13.119575+03:00"
   }, 
   "data": [
     {
-      "id": "f3641d0ba0f042e8b49de06d5c7921af", 
-      "dateModified": "2017-07-25T17:36:55.662421+03:00"
+      "id": "bd895d3da2ba4b7da4e8909106eed4e4", 
+      "dateModified": "2018-08-20T17:05:12.711968+03:00"
     }, 
     {
-      "id": "f8802ccce4d9409693ae745ea983c59a", 
-      "dateModified": "2017-07-25T17:36:55.824208+03:00"
+      "id": "4d1a927891d34b578f004fa1f6d1f97b", 
+      "dateModified": "2018-08-20T17:05:13.119575+03:00"
     }
   ]
 }
