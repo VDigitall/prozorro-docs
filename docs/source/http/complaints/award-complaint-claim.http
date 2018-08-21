@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/642d0d9c6f5d4bcaba32a998eb5ceb7a/awards/6a1e8963ef584fc5b02fc13836b6cd1f/complaints/32e8926c452848e8ade9893568a5da57?acc_token=f4ccf9a30c354191966caa1461617914 HTTP/1.0
+PATCH /api/2.4/tenders/4734a19504774ff2a0f37c62ad04e3aa/awards/7be983dc8c914435bf4d9eac85691c0e/complaints/b461b287eb8848f38dbedb3c3dda3180?acc_token=ae2341b5c12f469eb2fa2bfc864cef29 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 29
 Content-Type: application/json
@@ -22,12 +22,12 @@ Content-Type: application/json; charset=UTF-8
         "hash": "md5:00000000000000000000000000000000", 
         "author": "complaint_owner", 
         "title": "Complaint_Attachement.pdf", 
-        "url": "http://public.docs-sandbox.openprocurement.org/get/d4843d863ada40eb8e8283261f87dd5d?KeyID=1268fedd&Signature=hdGZpJPhlmYpTgHr4wQAw7MimodQi6jp%2F6mDTjAB20b4YH0L9QOA8ZIXBIhvpyDpA4N7EY6rZGuq7Hk2AV27BQ%253D%253D", 
+        "url": "http://public.docs-sandbox.openprocurement.org/get/6efda8f38e3b4883b6b71346bfddc19d?KeyID=8fe199b3&Signature=1Xsyx4V8dVPr%252BNwIZj%252B%2F1lsHl6w7Lw%252BfOxO1GpoEInLPfgNRqd7re2Ucr0BXEhXoHUnhfvBuc38gPpcEZ5H5Dw%253D%253D", 
         "format": "application/pdf", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-21T08:57:00.822954+03:00", 
-        "id": "43ecee5730604de8afdb746bc5cd7904", 
-        "dateModified": "2018-08-21T08:57:00.822973+03:00"
+        "datePublished": "2018-08-21T09:04:30.234550+03:00", 
+        "id": "2f2f198242e9437495950a308a049c0e", 
+        "dateModified": "2018-08-21T09:04:30.234573+03:00"
       }
     ], 
     "description": "complaint description", 
@@ -52,11 +52,11 @@ Content-Type: application/json; charset=UTF-8
         "locality": "м. Вінниця"
       }
     }, 
-    "dateSubmitted": "2018-08-21T08:57:00.999285+03:00", 
+    "dateSubmitted": "2018-08-21T09:04:30.421419+03:00", 
     "complaintID": "UA-2018-08-21-000001.5", 
-    "date": "2018-08-21T08:57:01.006098+03:00", 
+    "date": "2018-08-21T09:04:30.428336+03:00", 
     "type": "claim", 
-    "id": "32e8926c452848e8ade9893568a5da57"
+    "id": "b461b287eb8848f38dbedb3c3dda3180"
   }
 }
 
