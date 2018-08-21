@@ -1,12 +1,12 @@
-POST /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/documents?acc_token=725b3b0b374c467384cb2c4b99c21148 HTTP/1.0
+POST /api/2.4/tenders/0633c141631a4e08aaa96f287e00c8eb/documents?acc_token=754c3bd1013c4f4fae25583e9d7df5fe HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 335
+Content-Length: 333
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/88755672e52448c9b63e5a52a0819b48?KeyID=c13f8414&Signature=2L%2FamDKE8nGaekq5nzipi2xJBdv%2FoBU%2BT78wf8UjEkt3IbFYe1NIIcKDglTt455pL4AoBwaknvdYlxnJ9yYMBg%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/982e6c423a84484082957075a5a0db30?KeyID=0adfe2d1&Signature=GQVs1LWvVyjX0gQfIC9tjOpP0aGY5zXwPE5nr%2BnFlhRspwQdPPAfd3DzpyjcXm6sNNOc9tknvOEGu%2FH0Ra5kDQ%3D%3D", 
     "title": "AwardCriteria.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -16,19 +16,19 @@ Host: api-sandbox.openprocurement.org
 
 201 Created
 Content-Type: application/json; charset=UTF-8
-Location: http://api-sandbox.openprocurement.org/api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/documents/c08bc208b94e446bb5f72be5978fb939
+Location: http://api-sandbox.openprocurement.org/api/2.4/tenders/0633c141631a4e08aaa96f287e00c8eb/documents/2145309e1e234f4ab434ac4328de0d33
 
 {
   "data": {
     "hash": "md5:00000000000000000000000000000000", 
     "author": "tender_owner", 
     "title": "AwardCriteria.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/88755672e52448c9b63e5a52a0819b48?KeyID=c13f8414&Signature=AkUBnfjX03tyd0b1xjICPpDgf6ENCDTbRGpl3JDbAtsIYNP%2Fc3qD87N%252BvU5MIYoDoF1I66yWPEzxnxN%2FOvP%252BDw%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/982e6c423a84484082957075a5a0db30?KeyID=0adfe2d1&Signature=kD7tfHGFam8IB7EpzG4cN2E2lAyGmTCXfW42v5HiGZ0BmROJOQif4L3LqLL3EVf3yFH1QjUGqlVCYG43kZRHBQ%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2018-08-20T17:16:50.162578+03:00", 
-    "id": "c08bc208b94e446bb5f72be5978fb939", 
-    "dateModified": "2018-08-20T17:16:50.162597+03:00"
+    "datePublished": "2018-08-21T08:56:58.667184+03:00", 
+    "id": "2145309e1e234f4ab434ac4328de0d33", 
+    "dateModified": "2018-08-21T08:56:58.667205+03:00"
   }
 }
 

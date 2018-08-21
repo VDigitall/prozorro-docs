@@ -1,4 +1,4 @@
-GET /api/2.4/tenders/a25c38a278e8492f9d00d36f50173873/awards HTTP/1.0
+GET /api/2.4/tenders/afa62c501a20400f9ce1de70f14d5600/awards HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -15,17 +15,17 @@ Content-Type: application/json; charset=UTF-8
           "hash": "md5:00000000000000000000000000000000", 
           "author": "tender_owner", 
           "title": "Unsuccessful_Reason.pdf", 
-          "url": "http://public.docs-sandbox.openprocurement.org/get/5caca2a7ae3943c7b6d06d8da8959c47?KeyID=a97e205d&Signature=822FvlBr5wy5rH1C6t%252BK0ixpMLBYRfOwHGPIIehFndqKBfMqF5liXtVaDmEIq%252BXUxhVUyRhYw22Kro9EzVS%252BAA%253D%253D", 
+          "url": "http://public.docs-sandbox.openprocurement.org/get/c918c5dd7a684535aa359fe43203dcfd?KeyID=647466d4&Signature=8QaZlNcj%2F6vF%2FQgN1f77o8cVLA%2FbO7HUq6I50eFvwmxad4FLOw63cPUnHKDryFOGh9NswZqfXxdABUtJ8PKDAg%253D%253D", 
           "format": "application/pdf", 
           "documentOf": "tender", 
-          "datePublished": "2018-08-20T17:16:44.049734+03:00", 
-          "id": "c30656db5ceb45b9b58ed007966142da", 
-          "dateModified": "2018-08-20T17:16:44.049753+03:00"
+          "datePublished": "2018-08-21T08:56:52.527059+03:00", 
+          "id": "3cb7834357234f218c048f6dab8763ec", 
+          "dateModified": "2018-08-21T08:56:52.527080+03:00"
         }
       ], 
       "complaintPeriod": {
-        "startDate": "2018-08-20T17:16:43.855496+03:00", 
-        "endDate": "2018-08-20T17:16:48.009635+03:00"
+        "startDate": "2018-08-21T08:56:52.330451+03:00", 
+        "endDate": "2018-08-21T08:56:56.537339+03:00"
       }, 
       "suppliers": [
         {
@@ -49,13 +49,13 @@ Content-Type: application/json; charset=UTF-8
           }
         }
       ], 
-      "bid_id": "7cb0d538004145bd9591b2d3d4c52521", 
+      "bid_id": "5ba0253fb772410194d1bfb6731def17", 
       "value": {
         "currency": "UAH", 
         "amount": 450.0, 
         "valueAddedTaxIncluded": true
       }, 
-      "date": "2018-08-20T17:16:48.019629+03:00", 
+      "date": "2018-08-21T08:56:56.547388+03:00", 
       "complaints": [
         {
           "status": "resolved", 
@@ -64,12 +64,12 @@ Content-Type: application/json; charset=UTF-8
               "hash": "md5:00000000000000000000000000000000", 
               "author": "complaint_owner", 
               "title": "Complaint_Attachement.pdf", 
-              "url": "http://public.docs-sandbox.openprocurement.org/get/998c702607a948fcb35f50aac865935e?KeyID=a97e205d&Signature=ysU2sMLxJDyt6bvpSy3R%2Fuhyb%252B80D8BXjd1f5weuQhVRP6twg9wSOzJs6V4%252BkWQ%252BZZC%2FjHJJJrW2kj83PDhuCA%253D%253D", 
+              "url": "http://public.docs-sandbox.openprocurement.org/get/9b29baa8663240b6ac523c6d6f105e87?KeyID=647466d4&Signature=YECjdzcS%2FdzfFA3X15PCyPgmSxe3%2Fg%2FwbvnkufOiSvs1S4%2F1UyB22se%2Fbmxz944nQHHEX7ihmPAhpOBtbh3QAg%253D%253D", 
               "format": "application/pdf", 
               "documentOf": "tender", 
-              "datePublished": "2018-08-20T17:16:45.352163+03:00", 
-              "id": "35a706d56bcf425b9e0a0aad17a87f8f", 
-              "dateModified": "2018-08-20T17:16:45.352181+03:00"
+              "datePublished": "2018-08-21T08:56:53.843827+03:00", 
+              "id": "2d4fb429f5b74450ae0ddcd7b0f13b38", 
+              "dateModified": "2018-08-21T08:56:53.843848+03:00"
             }
           ], 
           "description": "complaint description", 
@@ -98,13 +98,13 @@ Content-Type: application/json; charset=UTF-8
           "title": "complaint title", 
           "satisfied": true, 
           "tendererAction": "Виправлено неконкурентні умови", 
-          "dateAnswered": "2018-08-20T17:16:46.046474+03:00", 
-          "tendererActionDate": "2018-08-20T17:16:46.046491+03:00", 
-          "dateSubmitted": "2018-08-20T17:16:45.529839+03:00", 
-          "complaintID": "UA-2018-08-20-000001.5", 
-          "date": "2018-08-20T17:16:46.230681+03:00", 
+          "dateAnswered": "2018-08-21T08:56:54.543297+03:00", 
+          "tendererActionDate": "2018-08-21T08:56:54.543315+03:00", 
+          "dateSubmitted": "2018-08-21T08:56:54.025300+03:00", 
+          "complaintID": "UA-2018-08-21-000001.5", 
+          "date": "2018-08-21T08:56:54.731110+03:00", 
           "resolution": "Виправлено неконкурентні умови", 
-          "id": "5c25c03fc1134f44bb0c159cd2471776"
+          "id": "7c4ef54ff5864ab9a13ecf68a5aceddb"
         }, 
         {
           "status": "resolved", 
@@ -133,12 +133,12 @@ Content-Type: application/json; charset=UTF-8
             }
           }, 
           "satisfied": false, 
-          "dateAnswered": "2018-08-20T17:16:46.404576+03:00", 
-          "dateSubmitted": "2018-08-20T17:16:45.696587+03:00", 
-          "complaintID": "UA-2018-08-20-000001.6", 
-          "date": "2018-08-20T17:16:46.587813+03:00", 
+          "dateAnswered": "2018-08-21T08:56:54.903442+03:00", 
+          "dateSubmitted": "2018-08-21T08:56:54.193368+03:00", 
+          "complaintID": "UA-2018-08-21-000001.6", 
+          "date": "2018-08-21T08:56:55.090427+03:00", 
           "resolution": "Виправлено неконкурентні умови", 
-          "id": "b3935210ce83448ba69e526eeec949ef"
+          "id": "a44f33957cd14b22b26fb809f8b84932"
         }, 
         {
           "status": "resolved", 
@@ -167,12 +167,12 @@ Content-Type: application/json; charset=UTF-8
             }
           }, 
           "satisfied": false, 
-          "dateAnswered": "2018-08-20T17:16:46.934715+03:00", 
-          "dateSubmitted": "2018-08-20T17:16:46.755065+03:00", 
-          "complaintID": "UA-2018-08-20-000001.7", 
-          "date": "2018-08-20T17:16:47.133219+03:00", 
+          "dateAnswered": "2018-08-21T08:56:55.448271+03:00", 
+          "dateSubmitted": "2018-08-21T08:56:55.264281+03:00", 
+          "complaintID": "UA-2018-08-21-000001.7", 
+          "date": "2018-08-21T08:56:55.643481+03:00", 
           "resolution": "Виправлено неконкурентні умови", 
-          "id": "a5588beff2624f2693df5cb4fe7d511a"
+          "id": "c5f36b94d1024c5db62467184691cbbb"
         }, 
         {
           "status": "resolved", 
@@ -201,21 +201,21 @@ Content-Type: application/json; charset=UTF-8
             }
           }, 
           "satisfied": false, 
-          "dateAnswered": "2018-08-20T17:16:47.493217+03:00", 
-          "dateSubmitted": "2018-08-20T17:16:47.304906+03:00", 
-          "complaintID": "UA-2018-08-20-000001.8", 
-          "date": "2018-08-20T17:16:47.689884+03:00", 
+          "dateAnswered": "2018-08-21T08:56:56.011167+03:00", 
+          "dateSubmitted": "2018-08-21T08:56:55.818147+03:00", 
+          "complaintID": "UA-2018-08-21-000001.8", 
+          "date": "2018-08-21T08:56:56.212220+03:00", 
           "resolution": "Виправлено неконкурентні умови", 
-          "id": "712fc81a9c804b8fb5bcb782b558ea2c"
+          "id": "b45b6c1baff348969732edcbe55d4362"
         }
       ], 
-      "id": "8478b70080514e7d8a1c8426262e96e6"
+      "id": "5d96a0b16a8a44428a86085028d0b31d"
     }, 
     {
       "status": "cancelled", 
       "complaintPeriod": {
-        "startDate": "2018-08-20T17:16:44.219112+03:00", 
-        "endDate": "2018-08-20T17:16:48.009635+03:00"
+        "startDate": "2018-08-21T08:56:52.700276+03:00", 
+        "endDate": "2018-08-21T08:56:56.537339+03:00"
       }, 
       "suppliers": [
         {
@@ -238,14 +238,14 @@ Content-Type: application/json; charset=UTF-8
           }
         }
       ], 
-      "bid_id": "e6a44ecddf574d1a938a69a40694113f", 
+      "bid_id": "66f745820b69463f836cbba05f2c327c", 
       "value": {
         "currency": "UAH", 
         "amount": 469.0, 
         "valueAddedTaxIncluded": true
       }, 
-      "date": "2018-08-20T17:16:44.657465+03:00", 
-      "id": "4bbe838bb5674dbc97edd0d7bdcd1ec6"
+      "date": "2018-08-21T08:56:53.138315+03:00", 
+      "id": "42a7f53ee680401ab8b980a29ce50f32"
     }, 
     {
       "status": "cancelled", 
@@ -254,17 +254,17 @@ Content-Type: application/json; charset=UTF-8
           "hash": "md5:00000000000000000000000000000000", 
           "author": "tender_owner", 
           "title": "Cancellation_Reason.pdf", 
-          "url": "http://public.docs-sandbox.openprocurement.org/get/06fb8a92b0e942e588cdeab4f8018a6a?KeyID=a97e205d&Signature=CZjPcnKr940DEMmdDJ1nh3Ks%2FSsG2cniHP4K0FbZfGeWeKCMp0SaJxPxnhODgdAwA%252BvX6iMfR370WDpJikvDDg%253D%253D", 
+          "url": "http://public.docs-sandbox.openprocurement.org/get/b1256f7b207f496bad6cd59e8a71ca91?KeyID=647466d4&Signature=VxEQD8v3fJrG4xqwjwzPVdWa4zzbqrZyBXLROFeDIMwhi2Fal8%2FV3WpHvhcwTrC55y315ajXBFNldHRou8mFDw%253D%253D", 
           "format": "application/pdf", 
           "documentOf": "tender", 
-          "datePublished": "2018-08-20T17:16:44.879080+03:00", 
-          "id": "9756b1fe71b14e2faf5dbe7f8a42e1bb", 
-          "dateModified": "2018-08-20T17:16:44.879098+03:00"
+          "datePublished": "2018-08-21T08:56:53.360010+03:00", 
+          "id": "17e9bfef39514c7e999387563e2da4fa", 
+          "dateModified": "2018-08-21T08:56:53.360031+03:00"
         }
       ], 
       "complaintPeriod": {
-        "startDate": "2018-08-20T17:16:44.650186+03:00", 
-        "endDate": "2018-08-20T17:16:48.009635+03:00"
+        "startDate": "2018-08-21T08:56:53.130934+03:00", 
+        "endDate": "2018-08-21T08:56:56.537339+03:00"
       }, 
       "suppliers": [
         {
@@ -287,20 +287,20 @@ Content-Type: application/json; charset=UTF-8
           }
         }
       ], 
-      "bid_id": "e6a44ecddf574d1a938a69a40694113f", 
+      "bid_id": "66f745820b69463f836cbba05f2c327c", 
       "value": {
         "currency": "UAH", 
         "amount": 469.0, 
         "valueAddedTaxIncluded": true
       }, 
-      "date": "2018-08-20T17:16:48.019629+03:00", 
-      "id": "6494e90fe6cf4d37814131b0d9c1b356"
+      "date": "2018-08-21T08:56:56.547388+03:00", 
+      "id": "0d01d47cf2c746c28a65a138d7e67532"
     }, 
     {
       "status": "cancelled", 
       "complaintPeriod": {
-        "startDate": "2018-08-20T17:16:45.035861+03:00", 
-        "endDate": "2018-08-20T17:16:48.009635+03:00"
+        "startDate": "2018-08-21T08:56:53.518026+03:00", 
+        "endDate": "2018-08-21T08:56:56.537339+03:00"
       }, 
       "suppliers": [
         {
@@ -324,19 +324,19 @@ Content-Type: application/json; charset=UTF-8
           }
         }
       ], 
-      "bid_id": "780296fea6a44bc58fe866be8847a2f9", 
+      "bid_id": "d9023748b96348a2985b63a760456886", 
       "value": {
         "currency": "UAH", 
         "amount": 475.0, 
         "valueAddedTaxIncluded": true
       }, 
-      "date": "2018-08-20T17:16:48.019629+03:00", 
-      "id": "358b3830d0734ca898a016abec23136c"
+      "date": "2018-08-21T08:56:56.547388+03:00", 
+      "id": "5884785c31954be3b1172e8f60e5cd77"
     }, 
     {
       "status": "pending", 
       "complaintPeriod": {
-        "startDate": "2018-08-20T17:16:48.010240+03:00"
+        "startDate": "2018-08-21T08:56:56.537844+03:00"
       }, 
       "suppliers": [
         {
@@ -360,14 +360,14 @@ Content-Type: application/json; charset=UTF-8
           }
         }
       ], 
-      "bid_id": "7cb0d538004145bd9591b2d3d4c52521", 
+      "bid_id": "5ba0253fb772410194d1bfb6731def17", 
       "value": {
         "currency": "UAH", 
         "amount": 450.0, 
         "valueAddedTaxIncluded": true
       }, 
-      "date": "2018-08-20T17:16:48.010230+03:00", 
-      "id": "f77aa209f43c4ce3a3949feccc742388"
+      "date": "2018-08-21T08:56:56.537833+03:00", 
+      "id": "fe19a961b9784cf48e21f3dc23ff9c9b"
     }
   ]
 }

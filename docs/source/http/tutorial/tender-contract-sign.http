@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/bacb84789fc0414d8646160f1e0d4e11/contracts/0270b83367704c4591630c99045ceefa?acc_token=725b3b0b374c467384cb2c4b99c21148 HTTP/1.0
+PATCH /api/2.4/tenders/0633c141631a4e08aaa96f287e00c8eb/contracts/44da6c20d3304d4ba65212c792a5df55?acc_token=754c3bd1013c4f4fae25583e9d7df5fe HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 30
 Content-Type: application/json
@@ -21,22 +21,22 @@ Content-Type: application/json; charset=UTF-8
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "contract_first_document.doc", 
-        "url": "http://public.docs-sandbox.openprocurement.org/get/4e74d9f25b9549b6a3c2a69413bdf954?KeyID=c13f8414&Signature=yMnhWneI2jh47lGJwj5ESM9iMOhxb6FS3sWOBrFMQrUrd9yOVjGI8pmRvRNu5wdlHmuxmio4Ox8i%252B6XqORDwBA%253D%253D", 
+        "url": "http://public.docs-sandbox.openprocurement.org/get/2c6b461b70df454d829c44d8695d266d?KeyID=0adfe2d1&Signature=spTKhTVCjHP1I2D2MlyTs8pbN0uTJBA6iFuy%2FJ4c%252BFOckPonf7T6be1b%2FLx54VsFLFm5et4pZUsXfmh%252B2Dn%252BAg%253D%253D", 
         "format": "application/msword", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-20T17:16:52.864866+03:00", 
-        "id": "c96f0c9e436b4e4fa8da64ae1f056ebd", 
-        "dateModified": "2018-08-20T17:16:52.864885+03:00"
+        "datePublished": "2018-08-21T08:57:01.664397+03:00", 
+        "id": "36b36fd249b04028b436a8eb685c3f9c", 
+        "dateModified": "2018-08-21T08:57:01.664417+03:00"
       }, 
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "contract_second_document.doc", 
-        "url": "http://public.docs-sandbox.openprocurement.org/get/969e7b8ea393426fac1725ccdb8f3eba?KeyID=c13f8414&Signature=UJVSDlWWr5zcv%252Bw8HI%252B7kN%252BOQ6aKT3fPmbzEJHQ3mwOzW11tLWIV2SR0nZC6g20%2FUtYkFoHTRCydGe6j93foCw%253D%253D", 
+        "url": "http://public.docs-sandbox.openprocurement.org/get/73cea8ebf73b465ab177f11b26c6f38b?KeyID=0adfe2d1&Signature=y1SgMkaBpjmtUAPzkxyXsXz3Bmncm8wJ1E07jTJwxPN2%2FKACn5rdpnAxhXrdUJ26daBSl1Rc8IjJbFZ1ZgDGCw%253D%253D", 
         "format": "application/msword", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-20T17:16:53.088887+03:00", 
-        "id": "51cda403bc104b068733a163e99c6bf9", 
-        "dateModified": "2018-08-20T17:16:53.088906+03:00"
+        "datePublished": "2018-08-21T08:57:01.889854+03:00", 
+        "id": "e192bac7182646ccbddca39de1f85255", 
+        "dateModified": "2018-08-21T08:57:01.889874+03:00"
       }
     ], 
     "items": [
@@ -62,10 +62,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-22T17:16:33.468317+03:00", 
-          "endDate": "2018-08-25T17:16:33.468317+03:00"
+          "startDate": "2018-08-23T08:56:41.953262+03:00", 
+          "endDate": "2018-08-26T08:56:41.953262+03:00"
         }, 
-        "id": "04e4ef5c58224d738ee5426a982800bd", 
+        "id": "3be692b62f0b4f04befe845a12719905", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -97,19 +97,19 @@ Content-Type: application/json; charset=UTF-8
     ], 
     "contractNumber": "contract #13111", 
     "period": {
-      "startDate": "2018-08-20T17:16:33.468448+03:00", 
-      "endDate": "2019-08-20T17:16:33.468448+03:00"
+      "startDate": "2018-08-21T08:56:41.953395+03:00", 
+      "endDate": "2019-08-21T08:56:41.953395+03:00"
     }, 
-    "dateSigned": "2018-08-20T17:16:53.241544+03:00", 
+    "dateSigned": "2018-08-21T08:57:02.046978+03:00", 
     "value": {
       "currency": "UAH", 
       "amount": 238.0, 
       "valueAddedTaxIncluded": true
     }, 
-    "date": "2018-08-20T17:16:53.560653+03:00", 
-    "awardID": "7ffb8f3c5add4b12b6421cd90df2a187", 
-    "id": "0270b83367704c4591630c99045ceefa", 
-    "contractID": "UA-2018-08-20-000001-1"
+    "date": "2018-08-21T08:57:02.375360+03:00", 
+    "awardID": "8e6e1366b6274d7f9d4c6add02d2d347", 
+    "id": "44da6c20d3304d4ba65212c792a5df55", 
+    "contractID": "UA-2018-08-21-000001-1"
   }
 }
 
