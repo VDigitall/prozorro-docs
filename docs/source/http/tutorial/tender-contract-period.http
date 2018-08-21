@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/dfa5782e3b144bdca04e994773308880/contracts/f30999aa71724b0cb7eadd786ee73f14?acc_token=2a2a8652b1e64846ab5c2de4d0a0a4a8 HTTP/1.0
+PATCH /api/2.4/tenders/21c028941810479099b6c304472fa513/contracts/6cbbb0fa841547fdb0bf4c64f3144209?acc_token=ef5f4af395b94893ab1a36ee38398e9f HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 106
 Content-Type: application/json
@@ -7,8 +7,8 @@ Host: api-sandbox.openprocurement.org
 {
   "data": {
     "period": {
-      "startDate": "2018-08-21T09:04:18.465514", 
-      "endDate": "2019-08-21T09:04:18.465514"
+      "startDate": "2018-08-21T09:04:23.809458", 
+      "endDate": "2019-08-21T09:04:23.809458"
     }
   }
 }
@@ -43,10 +43,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-23T09:04:18.465386+03:00", 
-          "endDate": "2018-08-26T09:04:18.465386+03:00"
+          "startDate": "2018-08-23T09:04:23.809326+03:00", 
+          "endDate": "2018-08-26T09:04:23.809326+03:00"
         }, 
-        "id": "f79b3f40f536402987abc3b3e8d73079", 
+        "id": "3dbed9c6a3854e83bf019651672342f9", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -78,18 +78,18 @@ Content-Type: application/json; charset=UTF-8
     ], 
     "contractNumber": "contract #13111", 
     "period": {
-      "startDate": "2018-08-21T09:04:18.465514+03:00", 
-      "endDate": "2019-08-21T09:04:18.465514+03:00"
+      "startDate": "2018-08-21T09:04:23.809458+03:00", 
+      "endDate": "2019-08-21T09:04:23.809458+03:00"
     }, 
-    "dateSigned": "2018-08-21T09:04:37.514032+03:00", 
+    "dateSigned": "2018-08-21T09:04:43.050774+03:00", 
     "value": {
       "currency": "UAH", 
       "amount": 238.0, 
       "valueAddedTaxIncluded": true
     }, 
-    "date": "2018-08-21T09:04:37.108935+03:00", 
-    "awardID": "dbac011a710949c490f06b90bd11bc22", 
-    "id": "f30999aa71724b0cb7eadd786ee73f14", 
+    "date": "2018-08-21T09:04:42.649012+03:00", 
+    "awardID": "438cbee2ff934eeeb8ad489efb373fec", 
+    "id": "6cbbb0fa841547fdb0bf4c64f3144209", 
     "contractID": "UA-2018-08-21-000001-1"
   }
 }

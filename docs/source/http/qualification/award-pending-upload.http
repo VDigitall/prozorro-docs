@@ -1,12 +1,12 @@
-POST /api/2.4/tenders/4734a19504774ff2a0f37c62ad04e3aa/awards/7be983dc8c914435bf4d9eac85691c0e/documents?acc_token=daa2170eae2a49b2be35885f2399f257 HTTP/1.0
+POST /api/2.4/tenders/979269331ffb40a7896036f735600946/awards/9e8aa6d064514d31b946a9319b45aab7/documents?acc_token=39ba2fa346eb4f78a15235102c682c72 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 339
+Content-Length: 343
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/32be0958be41447fa622d8dfb8d32b0e?KeyID=8fe199b3&Signature=PMZG72JWdUiHpX3%2FnSyu9Y3Wxv4ClLLzzCgY3jbPdu%2F0d7IdQevReyuAW8ESCk1vbC74GaEB1OYGjNK6jAC5Bw%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/ac21a30ba37a49b397abd63a042f161d?KeyID=374c28b1&Signature=4kPyQ7UtFP21K04FjzRexm%2F9vIl3jPhSVKktRj%2BfkykPbKpqmXBLRG0OSonlCv7bTh72M2nAbY%2FtxQ%2FJiOTCCA%3D%3D", 
     "title": "Unsuccessful_Reason.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -16,19 +16,19 @@ Host: api-sandbox.openprocurement.org
 
 201 Created
 Content-Type: application/json; charset=UTF-8
-Location: http://api-sandbox.openprocurement.org/api/2.4/tenders/4734a19504774ff2a0f37c62ad04e3aa/awards/7be983dc8c914435bf4d9eac85691c0e/documents/699be3180ad346d79906b74aadd5a225
+Location: http://api-sandbox.openprocurement.org/api/2.4/tenders/979269331ffb40a7896036f735600946/awards/9e8aa6d064514d31b946a9319b45aab7/documents/f09520a82762497fa149a080c2985f8d
 
 {
   "data": {
     "hash": "md5:00000000000000000000000000000000", 
     "author": "tender_owner", 
     "title": "Unsuccessful_Reason.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/32be0958be41447fa622d8dfb8d32b0e?KeyID=8fe199b3&Signature=n2w0Sy%2FR2zNrBUh%2F6PrxgwF5R3SX7RDxZoLtMmX6pYIheONSo%2FE4rHv72kGt%2F%252BsRrOgpDRZmjIPcW%252BocyOspDg%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/ac21a30ba37a49b397abd63a042f161d?KeyID=374c28b1&Signature=njmiNWW3gh0%252BD8ll%2F%252BYVroIz2vg1%252BItkldVP02LtLMiGKTT2PQcMGmh1TlUspHm%2FeEMroF1KyFJqML38rXmHBQ%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2018-08-21T09:04:28.931715+03:00", 
-    "id": "699be3180ad346d79906b74aadd5a225", 
-    "dateModified": "2018-08-21T09:04:28.931736+03:00"
+    "datePublished": "2018-08-21T09:04:34.521653+03:00", 
+    "id": "f09520a82762497fa149a080c2985f8d", 
+    "dateModified": "2018-08-21T09:04:34.521673+03:00"
   }
 }
 

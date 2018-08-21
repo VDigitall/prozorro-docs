@@ -1,4 +1,4 @@
-PATCH /api/2.4/tenders/dfa5782e3b144bdca04e994773308880/contracts/f30999aa71724b0cb7eadd786ee73f14?acc_token=2a2a8652b1e64846ab5c2de4d0a0a4a8 HTTP/1.0
+PATCH /api/2.4/tenders/21c028941810479099b6c304472fa513/contracts/6cbbb0fa841547fdb0bf4c64f3144209?acc_token=ef5f4af395b94893ab1a36ee38398e9f HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Content-Length: 30
 Content-Type: application/json
@@ -21,22 +21,22 @@ Content-Type: application/json; charset=UTF-8
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "contract_first_document.doc", 
-        "url": "http://public.docs-sandbox.openprocurement.org/get/9952d18e61664bdcba72a3ca7b6c1054?KeyID=40792bba&Signature=YxyTiFp8vHtKYIvQGwwHK7LCjVgHZzWrVEgiR%252Bktyabe7oEL7F9DrAXBgId4LQOpoZ9o6nF0HSXpD0h8pA6PDQ%253D%253D", 
+        "url": "http://public.docs-sandbox.openprocurement.org/get/74028e22bff5457bb7737fbb681d21a2?KeyID=26fd9873&Signature=FU67Bo7HwWr2StU68UEiy8ZnihqA%252Bp6JZLpvkEESItv%2FW0Yu17lNN%2Fyi6M%2FUf9pO63ytLIFDl77i05gOEc4eDg%253D%253D", 
         "format": "application/msword", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-21T09:04:37.852506+03:00", 
-        "id": "0b1119b9e8d34607a13a3f3c14657ddd", 
-        "dateModified": "2018-08-21T09:04:37.852524+03:00"
+        "datePublished": "2018-08-21T09:04:43.420762+03:00", 
+        "id": "cc23baf394f54edd82e2f58d088c02b5", 
+        "dateModified": "2018-08-21T09:04:43.420782+03:00"
       }, 
       {
         "hash": "md5:00000000000000000000000000000000", 
         "title": "contract_second_document.doc", 
-        "url": "http://public.docs-sandbox.openprocurement.org/get/079198c07f1e4b6fae22cf05392a1ade?KeyID=40792bba&Signature=wlrK1kG5nZjEcZKpU0PYWdmQ%252BRDyHupfyI9%2FUOJezhdnpTciRRdBchyz8yvnhauAUuUdUhfRHCNrnTLhLgsVAA%253D%253D", 
+        "url": "http://public.docs-sandbox.openprocurement.org/get/dc9b9c0b212640f5a9edf6fa61296729?KeyID=26fd9873&Signature=ecc%252Bx5GPKCt0biZIcj25UEI%252BffoKUbrUdt02gV1zcvVlWrO8IhmbTScmOWxiWfVf%252Baj1ngq1h%252BLiEFMGSEmkCw%253D%253D", 
         "format": "application/msword", 
         "documentOf": "tender", 
-        "datePublished": "2018-08-21T09:04:38.077074+03:00", 
-        "id": "be9f49b225c04ac8b4e4bb510086a75e", 
-        "dateModified": "2018-08-21T09:04:38.077093+03:00"
+        "datePublished": "2018-08-21T09:04:43.649008+03:00", 
+        "id": "e995f011e2cc478eb48450fa01974f8b", 
+        "dateModified": "2018-08-21T09:04:43.649027+03:00"
       }
     ], 
     "items": [
@@ -62,10 +62,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-23T09:04:18.465386+03:00", 
-          "endDate": "2018-08-26T09:04:18.465386+03:00"
+          "startDate": "2018-08-23T09:04:23.809326+03:00", 
+          "endDate": "2018-08-26T09:04:23.809326+03:00"
         }, 
-        "id": "f79b3f40f536402987abc3b3e8d73079", 
+        "id": "3dbed9c6a3854e83bf019651672342f9", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -97,18 +97,18 @@ Content-Type: application/json; charset=UTF-8
     ], 
     "contractNumber": "contract #13111", 
     "period": {
-      "startDate": "2018-08-21T09:04:18.465514+03:00", 
-      "endDate": "2019-08-21T09:04:18.465514+03:00"
+      "startDate": "2018-08-21T09:04:23.809458+03:00", 
+      "endDate": "2019-08-21T09:04:23.809458+03:00"
     }, 
-    "dateSigned": "2018-08-21T09:04:38.234354+03:00", 
+    "dateSigned": "2018-08-21T09:04:43.804311+03:00", 
     "value": {
       "currency": "UAH", 
       "amount": 238.0, 
       "valueAddedTaxIncluded": true
     }, 
-    "date": "2018-08-21T09:04:38.561169+03:00", 
-    "awardID": "dbac011a710949c490f06b90bd11bc22", 
-    "id": "f30999aa71724b0cb7eadd786ee73f14", 
+    "date": "2018-08-21T09:04:44.128395+03:00", 
+    "awardID": "438cbee2ff934eeeb8ad489efb373fec", 
+    "id": "6cbbb0fa841547fdb0bf4c64f3144209", 
     "contractID": "UA-2018-08-21-000001-1"
   }
 }
