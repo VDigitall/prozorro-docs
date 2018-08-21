@@ -1,4 +1,4 @@
-GET /api/2.4/tenders/0633c141631a4e08aaa96f287e00c8eb HTTP/1.0
+GET /api/2.4/tenders/14bc162d0f5e4538bbf47b0256e2c6b5 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
 Host: api-sandbox.openprocurement.org
 
@@ -10,10 +10,10 @@ Content-Type: application/json; charset=UTF-8
   "data": {
     "procurementMethod": "open", 
     "status": "active.enquiries", 
-    "mainProcurementCategory": "goods", 
+    "awardCriteria": "lowestCost", 
     "tenderPeriod": {
-      "startDate": "2018-08-28T08:56:41.953262+03:00", 
-      "endDate": "2018-09-04T08:56:41.953262+03:00"
+      "startDate": "2018-08-28T08:56:49.000134+03:00", 
+      "endDate": "2018-09-04T08:56:49.000134+03:00"
     }, 
     "title": "футляри до державних нагород", 
     "minimalStep": {
@@ -44,10 +44,10 @@ Content-Type: application/json; charset=UTF-8
           "locality": "м. Київ"
         }, 
         "deliveryDate": {
-          "startDate": "2018-08-23T08:56:41.953262+03:00", 
-          "endDate": "2018-08-26T08:56:41.953262+03:00"
+          "startDate": "2018-08-23T08:56:49.000134+03:00", 
+          "endDate": "2018-08-26T08:56:49.000134+03:00"
         }, 
-        "id": "3be692b62f0b4f04befe845a12719905", 
+        "id": "7408ff9344004fd0a7b6cc59cf0c9bb1", 
         "unit": {
           "code": "44617100-9", 
           "name": "item"
@@ -62,8 +62,8 @@ Content-Type: application/json; charset=UTF-8
       "valueAddedTaxIncluded": true
     }, 
     "submissionMethod": "electronicAuction", 
-    "date": "2018-08-21T08:56:57.510388+03:00", 
-    "next_check": "2018-08-28T08:56:41.953262+03:00", 
+    "date": "2018-08-21T08:57:04.461261+03:00", 
+    "next_check": "2018-08-28T08:56:49.000134+03:00", 
     "procuringEntity": {
       "contactPoint": {
         "name": "Державне управління справами", 
@@ -84,14 +84,13 @@ Content-Type: application/json; charset=UTF-8
         "locality": "м. Київ"
       }
     }, 
-    "awardCriteria": "lowestCost", 
     "enquiryPeriod": {
-      "startDate": "2018-08-21T08:56:57.510352+03:00", 
-      "endDate": "2018-08-28T08:56:41.953262+03:00"
+      "startDate": "2018-08-21T08:57:04.461223+03:00", 
+      "endDate": "2018-08-28T08:56:49.000134+03:00"
     }, 
     "owner": "broker", 
-    "dateModified": "2018-08-21T08:56:57.512452+03:00", 
-    "id": "0633c141631a4e08aaa96f287e00c8eb", 
+    "dateModified": "2018-08-21T08:57:04.463495+03:00", 
+    "id": "14bc162d0f5e4538bbf47b0256e2c6b5", 
     "tenderID": "UA-2018-08-21-000001"
   }
 }

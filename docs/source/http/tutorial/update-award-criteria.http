@@ -1,12 +1,12 @@
-PUT /api/2.4/tenders/0633c141631a4e08aaa96f287e00c8eb/documents/2145309e1e234f4ab434ac4328de0d33?acc_token=754c3bd1013c4f4fae25583e9d7df5fe HTTP/1.0
+PUT /api/2.4/tenders/14bc162d0f5e4538bbf47b0256e2c6b5/documents/415a1fb9ce684671b2bad64661c7bbac?acc_token=f52bf8d4a9064d39a19f0eb610aa5f24 HTTP/1.0
 Authorization: Basic YnJva2VyOg==
-Content-Length: 337
+Content-Length: 339
 Content-Type: application/json
 Host: api-sandbox.openprocurement.org
 
 {
   "data": {
-    "url": "http://public.docs-sandbox.openprocurement.org/get/3c18778348fc4b1ab530cc3673b05cbd?KeyID=0adfe2d1&Signature=sEs%2FGm8bI3SW81fDle3hJIFfO%2FtV0aO8EiTznaTvWGd7EHDtxKDR3NCD7TVow%2FduTzlpIoY8FV5E4555fVzkDA%3D%3D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/6ceb5a8a171244049f195c0738fde180?KeyID=b6d7061b&Signature=4Ey%2FcJWqj4%2FldRD25k1qnJx7dLZiBTEGLzAsqyHNR3Uqj8azpuamvtpQYbkce6t%2BdMSK%2BNc83cJ9mCSbMr7lBQ%3D%3D", 
     "title": "AwardCriteria-2.pdf", 
     "hash": "md5:00000000000000000000000000000000", 
     "format": "application/pdf"
@@ -22,12 +22,12 @@ Content-Type: application/json; charset=UTF-8
     "hash": "md5:00000000000000000000000000000000", 
     "author": "tender_owner", 
     "title": "AwardCriteria-2.pdf", 
-    "url": "http://public.docs-sandbox.openprocurement.org/get/3c18778348fc4b1ab530cc3673b05cbd?KeyID=0adfe2d1&Signature=MVh3%2Ffu287Hk4cLPryf5UZS83%2FAuyYLX2Dz37p6noLKXeRVMuryK8hllu61wGsAwiJW2QRwtrsfUBrNOS1lMBg%253D%253D", 
+    "url": "http://public.docs-sandbox.openprocurement.org/get/6ceb5a8a171244049f195c0738fde180?KeyID=b6d7061b&Signature=Ihi4x1isl3AcaG9ddNKOHYD4D1YZ6DayfJrvt9uz72LTiCED7ivJwIeFshYy47NMOTt4o7lvJX5o8uNm%2Fn4MAA%253D%253D", 
     "format": "application/pdf", 
     "documentOf": "tender", 
-    "datePublished": "2018-08-21T08:56:58.667184+03:00", 
-    "id": "2145309e1e234f4ab434ac4328de0d33", 
-    "dateModified": "2018-08-21T08:56:58.791184+03:00"
+    "datePublished": "2018-08-21T08:57:05.612816+03:00", 
+    "id": "415a1fb9ce684671b2bad64661c7bbac", 
+    "dateModified": "2018-08-21T08:57:05.738563+03:00"
   }
 }
 
